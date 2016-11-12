@@ -1,2 +1,2 @@
 # Pong
-Pong Created In 2016
+Simple pong game created in my free time. Created in NetBeans Console.
